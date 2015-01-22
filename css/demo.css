@@ -33,8 +33,10 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
-    color: #B6D9AC;
-    background-color: #818181;
+    color: #c9c9c9;
+	background-image: url(../img/back1.png);
+	background-repeat: no-repeat;
+
 }
 
 a {
