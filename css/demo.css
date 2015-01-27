@@ -186,6 +186,10 @@ p.info {
 	padding: 20px;
 }
 
+span#asterix {
+	font-size: .3em;
+}
+
 @media screen and (max-width: 55em) {
 
 	.container > header h1,
