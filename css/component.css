@@ -187,6 +187,10 @@ Chasing Dragons
 /* Example media queries */
 
 @media screen and (max-width: 52.375em) {
+	.tabs nav ul {
+		margin-left: 8em;
+	}
+
 	.tabs nav a span {
 		display: none;
 	}
