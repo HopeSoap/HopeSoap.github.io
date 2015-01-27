@@ -1,6 +1,6 @@
 /*---- VENMO BUTTON ----*/
 
-i#venmo {
+i.venmo {
   display: inline-block;
   text-align: center;
   -moz-border-radius: 3px;
@@ -16,14 +16,14 @@ i#venmo {
   font-weight: bold;
   letter-spacing: -1px;
 }
-i#venmo:before {
+i.venmo:before {
   content: "Ven";
   color: white;
   font-size: 1em;
   padding-top: 7%;
   display: inline-block;
 }
-i#venmo:after {
+i.venmo:after {
   content: "mo";
   color: white;
   font-size: 1em;
@@ -34,7 +34,7 @@ i#venmo:after {
 
 /*--- PayPal Button ---*/
 
-i#paypal {
+i.paypal {
   display: inline-block;
   text-align: center;
   margin-left: 2%;
@@ -55,14 +55,14 @@ i#paypal {
   font-weight: bold;
   letter-spacing: -1px;
 }
-i#paypal:before {
+i.paypal:before {
   content: "Pay";
   color: #003795;
   font-size: 1em;
   padding-top: 7%;
   display: inline-block;
 }
-i#paypal:after {
+i.paypal:after {
   content: "Pal";
   color: #0097db;
   font-size: 1em;
