@@ -70,3 +70,5 @@
 	window.CBPFWTabs = CBPFWTabs;
 
 })( window );
+
+
