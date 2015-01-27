@@ -1,0 +1,76 @@
+/*---- VENMO BUTTON ----*/
+
+i#venmo {
+  display: inline-block;
+  text-align: center;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  width: 9em;
+  height: 2.8em;
+  background-color: white;
+  *zoom: 1;
+  background-color: #3D95CE;
+  font-family: "Verdana";
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+i#venmo:before {
+  content: "Ven";
+  color: white;
+  font-size: 1em;
+  padding-top: 7%;
+  display: inline-block;
+}
+i#venmo:after {
+  content: "mo";
+  color: white;
+  font-size: 1em;
+}
+
+
+/*-----------------------------------------------------------------*/
+
+/*--- PayPal Button ---*/
+
+i#paypal {
+  display: inline-block;
+  text-align: center;
+  margin-left: 2%;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #ff991f;
+  width: 10em;
+  height: 2.8em;
+  background-color: white;
+  *zoom: 1;
+  filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#FFFFFFFF', endColorstr='#FFFFE8BB');
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #ffe8bb 100%);
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #ffe8bb 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #ffe8bb 100%);
+  font-family: "Verdana";
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+i#paypal:before {
+  content: "Pay";
+  color: #003795;
+  font-size: 1em;
+  padding-top: 7%;
+  display: inline-block;
+}
+i#paypal:after {
+  content: "Pal";
+  color: #0097db;
+  font-size: 1em;
+}
+
+
+
+
+
+/*-----------------------------------------------------------------*/
+
