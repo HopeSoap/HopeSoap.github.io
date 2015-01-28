@@ -169,7 +169,7 @@ Chasing Dragons
 }
 
 .mediabox img {
-	max-width: 50%;
+	max-width: 100%;
 	display: block;
 	margin: 0 auto;
 }
