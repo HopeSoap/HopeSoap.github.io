@@ -34,7 +34,6 @@ Chasing Dragons
 /* Nav */
 .tabs nav {
 	text-align: center;
-
 }
 
 .tabs nav ul {
@@ -163,14 +162,14 @@ Chasing Dragons
 }
 
 .mediabox {
-	float: bottom;
+	float: left;
 	width: 33%;
 	padding: 0 25px;
-	margin-left: 33vw;
-margin-top: 3vh;}
+	margin-top: 3vh;
+}
 
 .mediabox img {
-	max-width: 100%;
+	max-width: 50%;
 	display: block;
 	margin: 0 auto;
 }
@@ -199,7 +198,7 @@ margin-top: 3vh;}
 	}
 
 	.mediabox {
-		float: none;
+		float: left;
 		width: auto;
 		padding: 0 0 35px 0;
 		font-size: 90%;
