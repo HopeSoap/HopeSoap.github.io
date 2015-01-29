@@ -849,9 +849,9 @@ screen and (max-device-width: 480px) {
 		margin-top: 40px;
 	}
 	.logo:after {
-		-moz-box-shadow: -1px -1px 0 #DA2F1E, -2px -2px 0 #DA2F1E, -3px -3px 0 #DA2F1E, -4px -4px 0 #DA2F1E, -5px -5px 0 #DA2F1E, -6px -6px 0 #DA2F1E, -7px -7px 0 #DA2F1E, -8px -8px 0 #DA2F1E, -9px -9px 0 #DA2F1E, -10px -10px 0 #DA2F1E, -11px -11px 0 #DA2F1E;
-		-webkit-box-shadow: -1px 1px 0 #DA2F1E, -2px 2px 0 #DA2F1E, -3px 3px 0 #DA2F1E, -4px 4px 0 #DA2F1E, -5px 5px 0 #DA2F1E, -6px 6px 0 #DA2F1E, -7px 7px 0 #DA2F1E, -8px 8px 0 #DA2F1E, -9px 9px 0 #DA2F1E, -10px 10px 0 #DA2F1E, -11px 11px 0 #DA2F1E;
-		box-shadow: -1px -1px 0 #DA2F1E, -2px -2px 0 #DA2F1E, -3px -3px 0 #DA2F1E, -4px -4px 0 #DA2F1E, -5px -5px 0 #DA2F1E, -6px -6px 0 #DA2F1E, -7px -7px 0 #DA2F1E, -8px -8px 0 #DA2F1E, -9px -9px 0 #DA2F1E, -10px -10px 0 #DA2F1E, -11px -11px 0 #DA2F1E;
+		-moz-box-shadow: -1px -1px 0 #D55C8E, -2px -2px 0 #D55C8E, -3px -3px 0 #D55C8E, -4px -4px 0 #D55C8E, -5px -5px 0 #D55C8E, -6px -6px 0 #D55C8E, -7px -7px 0 #D55C8E, -8px -8px 0 #D55C8E, -9px -9px 0 #D55C8E, -10px -10px 0 #D55C8E, -11px -11px 0 #D55C8E;
+		-webkit-box-shadow: -1px 1px 0 #D55C8E, -2px 2px 0 #D55C8E, -3px 3px 0 #D55C8E, -4px 4px 0 #D55C8E, -5px 5px 0 #D55C8E, -6px 6px 0 #D55C8E, -7px 7px 0 #D55C8E, -8px 8px 0 #D55C8E, -9px 9px 0 #D55C8E, -10px 10px 0 #D55C8E, -11px 11px 0 #D55C8E;
+		box-shadow: -1px -1px 0 #D55C8E, -2px -2px 0 #D55C8E, -3px -3px 0 #D55C8E, -4px -4px 0 #D55C8E, -5px -5px 0 #D55C8E, -6px -6px 0 #D55C8E, -7px -7px 0 #D55C8E, -8px -8px 0 #D55C8E, -9px -9px 0 #D55C8E, -10px -10px 0 #D55C8E, -11px -11px 0 #D55C8E;
 	}
 	.logo a {
 		padding: 68px 14.8148% 48px;
