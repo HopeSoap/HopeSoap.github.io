@@ -138,45 +138,45 @@ img {
 	width: 90%;
 }
 .logo {
-	background: #C52618 url("http://responsivewebdesign.com/robot/img/logo-bg.jpg");
+	background: #D53276 url("http://responsivewebdesign.com/robot/img/logo-bg.jpg");
 	float: left;
 	width: 16.875%;	/* 162 / 960 */
 	border-radius: 20%;
 }
 .logo:after {
-	-moz-box-shadow: -1px 1px 0 #DA2F1E,
-		-2px 2px 0 #DA2F1E,
-		-3px 3px 0 #DA2F1E,
-		-4px 4px 0 #DA2F1E,
-		-5px 5px 0 #DA2F1E,
-		-6px 6px 0 #DA2F1E,
-		-7px 7px 0 #DA2F1E,
-		-8px 8px 0 #DA2F1E,
-		-9px 9px 0 #DA2F1E,
-		-10px 10px 0 #DA2F1E,
-		-11px 11px 0 #DA2F1E;
-	-webkit-box-shadow: -1px 1px 0 #DA2F1E,
-		-2px 2px 0 #DA2F1E,
-		-3px 3px 0 #DA2F1E,
-		-4px 4px 0 #DA2F1E,
-		-5px 5px 0 #DA2F1E,
-		-6px 6px 0 #DA2F1E,
-		-7px 7px 0 #DA2F1E,
-		-8px 8px 0 #DA2F1E,
-		-9px 9px 0 #DA2F1E,
-		-10px 10px 0 #DA2F1E,
-		-11px 11px 0 #DA2F1E;
-	box-shadow: -1px 1px 0 #DA2F1E,
-		-2px 2px 0 #DA2F1E,
-		-3px 3px 0 #DA2F1E,
-		-4px 4px 0 #DA2F1E,
-		-5px 5px 0 #DA2F1E,
-		-6px 6px 0 #DA2F1E,
-		-7px 7px 0 #DA2F1E,
-		-8px 8px 0 #DA2F1E,
-		-9px 9px 0 #DA2F1E,
-		-10px 10px 0 #DA2F1E,
-		-11px 11px 0 #DA2F1E;
+	-moz-box-shadow: -1px 1px 0 #D55C8E,
+		-2px 2px 0 #D55C8E,
+		-3px 3px 0 #D55C8E,
+		-4px 4px 0 #D55C8E,
+		-5px 5px 0 #D55C8E,
+		-6px 6px 0 #D55C8E,
+		-7px 7px 0 #D55C8E,
+		-8px 8px 0 #D55C8E,
+		-9px 9px 0 #D55C8E,
+		-10px 10px 0 #D55C8E,
+		-11px 11px 0 #D55C8E;
+	-webkit-box-shadow: -1px 1px 0 #D55C8E,
+		-2px 2px 0 #D55C8E,
+		-3px 3px 0 #D55C8E,
+		-4px 4px 0 #D55C8E,
+		-5px 5px 0 #D55C8E,
+		-6px 6px 0 #D55C8E,
+		-7px 7px 0 #D55C8E,
+		-8px 8px 0 #D55C8E,
+		-9px 9px 0 #D55C8E,
+		-10px 10px 0 #D55C8E,
+		-11px 11px 0 #D55C8E;
+	box-shadow: -1px 1px 0 #D55C8E,
+		-2px 2px 0 #D55C8E,
+		-3px 3px 0 #D55C8E,
+		-4px 4px 0 #D55C8E,
+		-5px 5px 0 #D55C8E,
+		-6px 6px 0 #D55C8E,
+		-7px 7px 0 #D55C8E,
+		-8px 8px 0 #D55C8E,
+		-9px 9px 0 #D55C8E,
+		-10px 10px 0 #D55C8E,
+		-11px 11px 0 #D55C8E;
 	opacity: 0.5;
 }
 .logo a {
@@ -187,7 +187,7 @@ img {
 	display: block;
 }
 .nav-primary {
-	background: #E98571;
+	background: #7185E9;
 	font: bold 25px "pill-gothic-300mg-1","pill-gothic-300mg-2", Calibri, Candara, "Gill Sans", "Gill Sans MT", sans-serif;
 	padding: 1.2em 1em 1em;
 	text-transform: uppercase;
@@ -206,7 +206,7 @@ img {
 	display: inline;
 }
 .nav-primary a {
-	color: #EECBA5;
+	color: #7E41B6;
 	padding: 1.2em 1em 1em;
 	position: relative;
 	z-index: 1;
